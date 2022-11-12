@@ -8,7 +8,6 @@ Once online, the next job is to update the list with the current market places. 
 # Files available
 ## Excel SpreadSheet : on tab, all the data needed. 
 ## csv file : because it's handy
-## json : because it's handier than csv, for other purposes
 ## html file : to make the following page
 
 
