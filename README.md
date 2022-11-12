@@ -9,7 +9,7 @@ Once online, the next job is to update the list with the current market places. 
 ## Excel SpreadSheet : on tab, all the data needed. 
 ## csv file : because it's handy
 ## json : because it's handier than csv, for other purposes
-## html file : becasue I was bored and I thought this was useful
+## html file : to make the following page
 
 
 https://iamhenri.github.io/global-market-places-list/
