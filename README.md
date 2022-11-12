@@ -12,6 +12,8 @@ Once online, the next job is to update the list with the current market places. 
 ## html file : becasue I was bored and I thought this was useful
 
 
+https://iamhenri.github.io/global-market-places-list/
+
 # API 
 This was the goal tbh. I developped this vanialla API just as a test, but if ever it can be helpful to anyone, this will majke my day. 
 
