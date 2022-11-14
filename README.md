@@ -4,18 +4,16 @@ World wide market place list : the repo contains a list of all the market places
 # Updates
 Once online, the next job is to update the list with the current market places. Some have desappeared. 
 
-
-# Files available
-## Excel SpreadSheet : on tab, all the data needed. 
-## csv file : because it's handy
-## html file : to make the following page
+# Online version
+A simple table of all market places in the world : 
 
 
 https://iamhenri.github.io/global-market-places-list/
 
-# API 
-This was the goal tbh. I developped this vanialla API just as a test, but if ever it can be helpful to anyone, this will majke my day. 
+# Goal : create an API 
+API  as a test, but if ever it can be helpful to anyone, this will make my day. 
 
+# Todo : 
 ## Reading the data : ALL
 You can access all the data, sorted by continent and by city. 
 
