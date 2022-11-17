@@ -10,6 +10,10 @@ A simple table of all market places in the world :
 
 https://iamhenri.github.io/global-market-places-list/
 
+
+Or here : 
+https://worldmarketplaceapi.herokuapp.com/
+
 # Goal : create an API 
 API  as a test, but if ever it can be helpful to anyone, this will make my day. 
 
