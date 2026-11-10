@@ -1,0 +1,12 @@
+{
+  "name": "mon-projet-parcel",
+  "version": "1.0.0",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
